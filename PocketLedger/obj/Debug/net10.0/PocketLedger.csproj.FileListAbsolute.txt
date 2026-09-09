@@ -1,0 +1,15 @@
+/home/j-arch/PocketLedger-cs/PocketLedger/obj/Debug/net10.0/PocketLedger.GeneratedMSBuildEditorConfig.editorconfig
+/home/j-arch/PocketLedger-cs/PocketLedger/obj/Debug/net10.0/PocketLedger.AssemblyInfoInputs.cache
+/home/j-arch/PocketLedger-cs/PocketLedger/obj/Debug/net10.0/PocketLedger.AssemblyInfo.cs
+/home/j-arch/PocketLedger-cs/PocketLedger/obj/Debug/net10.0/PocketLedger.csproj.CoreCompileInputs.cache
+/home/j-arch/PocketLedger-cs/PocketLedger/obj/Debug/net10.0/PocketLedger.sourcelink.json
+/home/j-arch/PocketLedger-cs/PocketLedger/bin/Debug/net10.0/PocketLedger
+/home/j-arch/PocketLedger-cs/PocketLedger/bin/Debug/net10.0/PocketLedger.deps.json
+/home/j-arch/PocketLedger-cs/PocketLedger/bin/Debug/net10.0/PocketLedger.runtimeconfig.json
+/home/j-arch/PocketLedger-cs/PocketLedger/bin/Debug/net10.0/PocketLedger.dll
+/home/j-arch/PocketLedger-cs/PocketLedger/bin/Debug/net10.0/PocketLedger.pdb
+/home/j-arch/PocketLedger-cs/PocketLedger/obj/Debug/net10.0/PocketLedger.dll
+/home/j-arch/PocketLedger-cs/PocketLedger/obj/Debug/net10.0/refint/PocketLedger.dll
+/home/j-arch/PocketLedger-cs/PocketLedger/obj/Debug/net10.0/PocketLedger.pdb
+/home/j-arch/PocketLedger-cs/PocketLedger/obj/Debug/net10.0/PocketLedger.genruntimeconfig.cache
+/home/j-arch/PocketLedger-cs/PocketLedger/obj/Debug/net10.0/ref/PocketLedger.dll

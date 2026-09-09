@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qumhuqBkwRI=",
+  "success": true,
+  "projectFilePath": "/home/j-arch/PocketLedger-cs/PocketLedger/PocketLedger.csproj",
+  "expectedPackageFiles": [
+    "/home/j-arch/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.11/microsoft.aspnetcore.app.ref.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
